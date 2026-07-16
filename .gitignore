@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Generated files
+report.json
+
+# Go build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
